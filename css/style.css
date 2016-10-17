@@ -207,9 +207,13 @@ button {
   background-color: grey;
 }
 
+.content-bar {
+  margin: 5%;
+}
+
 #search-link {
   margin:0;
-  padding: 2% 0 0 2%;
+  padding: 2% 0 0 5%;
   color: white;
 }
 
@@ -220,7 +224,7 @@ button {
 
 #imdb-rating {
   text-align: center;
-  color:lightgrey;
+  color: white;
 }
 
 #movie-poster {
